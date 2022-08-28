@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajsabal/insta/static/css/main.919d24f1.css",
+    "main.js": "/rajsabal/insta/static/js/main.3a3089fd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/rajsabal/insta/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/rajsabal/insta/index.html",
+    "main.919d24f1.css.map": "/rajsabal/insta/static/css/main.919d24f1.css.map",
+    "main.3a3089fd.js.map": "/rajsabal/insta/static/js/main.3a3089fd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/rajsabal/insta/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.919d24f1.css",
+    "static/js/main.3a3089fd.js"
+  ]
+}
